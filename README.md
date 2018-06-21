@@ -10,4 +10,4 @@ Virtual Reality is an artificial, computer generated simulation or recreation of
 Augmented Reality is a technology that layers interactive,virtual enhancements atop an existing reality. It is developed into apps and used on mobile devices which blends digital components.
 ### Demonstration
 ---------------------------------------------------------------------------
-![Code](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/tree/master/Code)
+[Code](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/tree/master/Code)
