@@ -11,3 +11,15 @@ Augmented Reality is a technology that layers interactive,virtual enhancements a
 ### Demonstration
 ---------------------------------------------------------------------------
 [Code](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/tree/master/Code)
+
+### FarEdge Logo Demonstration
+[Code](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/blob/master/Code/FarEdgeLogo.html)
+
+### To see the logo, scan through QR Code.
+[QR Code](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/blob/master/QRCode/QR_Code_FE.PNG)
+
+After scanning, through QR code, it will direct you to codepen webpage, allow for camera use and scan the "Hiro" image present in QR Code itself, voila! you will see faredge text appearing.Something like:- <br>
+![Image1](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/blob/master/Results/Screenshot_2018-06-26-07-01-42-145_com.android.chrome.png)
+
+### Failed Attempt.
+Tried to change logo from "hiro" to "faredge".But, failed. [Source](https://github.com/RN0311/AR-VR-Knowledge-Sharing-Session/blob/master/Results/FailedAttempt.PNG)
